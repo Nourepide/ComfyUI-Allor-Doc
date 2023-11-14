@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="allor-doc"
+                 name="Allor Documentation"
+                 start-page="Allor-Doc.md">
+
+    <toc-element topic="Allor-Doc.md">
+        <toc-element topic="Modules.md"/>
+    </toc-element>
+</instance-profile>
