@@ -1,0 +1,1 @@
+# Clip Vision Output
