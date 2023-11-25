@@ -4,4 +4,9 @@
         <primary-color>iris</primary-color>
     </variables>
     <build-profile instance="allor-doc"/>
+    <footer>
+        <link href="https://github.com/Nourepide/ComfyUI-Allor">Allor Repository</link>
+        <link href="https://github.com/Nourepide/ComfyUI-Allor/issues">Issues</link>
+        <link href="https://github.com/users/Nourepide/projects/1">Roadmap</link>
+    </footer>
 </buildprofiles>
