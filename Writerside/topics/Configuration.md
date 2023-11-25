@@ -5,7 +5,7 @@ based on the template found in `template/template.json`.
 
 In the event of an **update**, the configuration file **automatically adapts** to all changes. It **preserves old
 parameters** while removing outdated ones and applying new ones. This ensures that your configuration stays
-**up-to-date** with the latest features and improvements.
+**up to date** with the latest features and improvements.
 
 ## Modules
 
@@ -93,7 +93,7 @@ available in Allor. By default, all overrides are **disabled** (set to `false`).
   </tr>
   <tr>
     <td rowspan="2">ImageInvert</td>
-    <td>ImageTransfromRotate</td>
+    <td>ImageTransformRotate</td>
   </tr>
   <tr>
     <td>ImageTransformTranspose</td>

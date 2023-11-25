@@ -22,7 +22,7 @@ configuration</a> page.
 <procedure>
 
 1. **Open Terminal**: Navigate to the `ComfyUI/custom_nodes/ComfyUI-Allor` directory. You can do this by opening
-   Terminal and using the `cd` command.
+   the Terminal and using the `cd` command.
 
 2. **Update the Repository**: Update the repository by entering the following command:
 

@@ -1,7 +1,7 @@
 # Installation
 
-**Allor** can be installed not with such complexity as it seems at first glance. Rest assured that every possible
-measure has been taken to streamline this process.
+**Allor** can be installed not with such a complexity as it seems at first glance.
+Rest assured that every possible measure has been taken to streamline this process.
 
 The installation script implemented within Allor ensures a smooth installation experience for all users, regardless of
 their technical proficiency.
@@ -18,8 +18,7 @@ their technical proficiency.
 
 ## Installing with manager
 
-If you have [ComfyUI-Manager](https://github.com/ltdrdata/ComfyUI-Manager) installed you can just install Allor by
-manager.
+If you have [ComfyUI-Manager](https://github.com/ltdrdata/ComfyUI-Manager) installed, you can install Allor by manager.
 
 ## Installing with direct download
 
@@ -72,8 +71,8 @@ manager.
 
 <procedure>
 
-1. **Open Terminal**: Navigate to the `ComfyUI/custom_nodes` directory. You can do this by opening Terminal and using
-   the `cd` command.
+1. **Open Terminal**: Navigate to the `ComfyUI/custom_nodes` directory.
+   You can do this by opening the Terminal and using the `cd` command.
 
 2. **Clone the Repository**: Clone the repository by entering the following command:
 
@@ -137,7 +136,7 @@ manager.
 2. **Installs dependencies**: If a `requirements.txt` file exists in the current directory, the script installs the
    dependencies listed in it.
 
-3. **Initializes a Git repository**: If Git is installed and the current directory is not already a Git repository, the
+3. **Initializes a Git repository**: If Git is installed and the current directory is not yet a Git repository, the
    script initializes a new Git repository and syncs it with a remote repository.
 
 4. **Uses GitPython**: If Git is not installed, the script uses GitPython, a Python library, to perform Git operations.

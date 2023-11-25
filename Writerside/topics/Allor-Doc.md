@@ -1,6 +1,6 @@
 # Introducing
 
-![logo](documentation.png){width="706"}
+![logo](documentation.png){ width="706" }
 
 > Welcome to `Allor Documentation`. This is your go-to resource for detailed information and guides on how to
 > use Allor effectively. Whether you’re just starting out or looking for advanced tips, we’re here to help.

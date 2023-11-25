@@ -1,3 +1,3 @@
 # Alpha Chanel
 
-![alpha_chanel](alpha_chanel.png){ border-effect="rounded" }
+![alpha_chanel](alpha_chanel.png){ border-effect="rounded" width="706" }
