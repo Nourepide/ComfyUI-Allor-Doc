@@ -28,25 +28,31 @@
 </procedure>
 
 <procedure>
-  <img src="update.svg" alt="installation" style="block" width="46"/>
+  <img src="update.svg" alt="updating" style="block" width="46"/>
   <a href="Updating.md"/>
   <p>Stay ahead with the latest features and updates.</p>
 </procedure>
 
 <procedure>
-  <img src="tune.svg" alt="installation" style="block" width="46"/>
+  <img src="tune.svg" alt="configuration" style="block" width="46"/>
   <a href="Configuration.md"/>
   <p>Tailor Allor to your needs for a truly personalized experience.</p>
 </procedure>
 
 <procedure>
-  <img src="palette.svg" alt="installation" style="block" width="46"/>
+  <img src="cloud.svg" alt="cloud" style="block" width="46"/>
+  <p><format color="Gray">Run in cloud</format></p>
+  <p>Unleash the power of simplicity launching with Jupyter Notebook.</p>
+</procedure>
+
+<procedure>
+  <img src="palette.svg" alt="modules" style="block" width="46"/>
   <a href="Modules.md"/>
   <p>Harness the full power that Allor has to offer.</p>
 </procedure>
 
 <procedure>
-  <img src="question.svg" alt="installation" style="block" width="46"/>
+  <img src="question.svg" alt="faq" style="block" width="46"/>
   <a href="FAQ.md">Frequently Asked Questions</a>
   <p>Find answers to your burning questions in our FAQ section.</p>
 </procedure>
