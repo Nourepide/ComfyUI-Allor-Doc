@@ -1,5 +1,12 @@
 # Installation
 
+**Allor** can be installed not with such complexity as it seems at first glance. Rest assured that every possible
+measure has been taken to streamline this process.
+
+The installation script implemented within Allor ensures a smooth installation experience for all users, regardless of
+their technical proficiency.
+
+
 > Before installing Allor, you need to have ComfyUI installed,
 > see [here](https://github.com/comfyanonymous/ComfyUI#installing) how it can be done.
 > {style="note"}

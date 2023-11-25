@@ -1,10 +1,11 @@
-# About Allor
+# Introducing
 
 ![logo](documentation.png){width="706"}
 
-> Welcome to `ComfyUI Allor Documentation`. Now you are ready for a new big step.
+> Welcome to `Allor Documentation`. This is your go-to resource for detailed information and guides on how to
+> use Allor effectively. Whether you’re just starting out or looking for advanced tips, we’re here to help.
 
-## Introducing Allor
+## Featuring Allor
 
 **Allor**, is a plugin for **ComfyUI**, is your go-to solution for image post-processing. Here's why:
 

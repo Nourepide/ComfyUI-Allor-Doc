@@ -1,6 +1,9 @@
 # FAQ
 
-<deflist type="narrow">
+The **FAQ** page provides quick answers to **common queries** about Allor. It's a go-to resource for understanding Allor
+better or troubleshooting issues.
+
+<deflist type="medium">
     <def title="What is this project about?">
         This project is about a plugin for ComfyUI that focuses on image post-processing. 
     </def> 

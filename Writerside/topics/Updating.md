@@ -1,10 +1,16 @@
 # Updating
 
+Maintaining the **latest version** of Allor is crucial for **optimal performance** and access to **new features**.
+
+This section provides comprehensive instructions on how to **update Allor**, whether you prefer the convenience of *
+*automatic updates** or the control of **manual updates via Git**.
+
 ## Auto-Update
 
 **Allor** has the capability to **self-update**. By default, this happens **once a day**.
 
-If you wish to **modify this behavior** or **disable auto-update**, please refer to the **configuration page**.
+If you wish to **modify this behavior** or **disable auto-update**, please refer to the <a href="Configuration.md">
+configuration</a> page.
 
 ## Manual updating with Git
 
@@ -15,8 +21,8 @@ If you wish to **modify this behavior** or **disable auto-update**, please refer
 
 <procedure>
 
-1. **Open Terminal**: Navigate to the `ComfyUI/custom_nodes/ComfyUI-Allor` directory. You can do this by opening Terminal and using
-   the `cd` command.
+1. **Open Terminal**: Navigate to the `ComfyUI/custom_nodes/ComfyUI-Allor` directory. You can do this by opening
+   Terminal and using the `cd` command.
 
 2. **Update the Repository**: Update the repository by entering the following command:
 
@@ -31,8 +37,8 @@ If you wish to **modify this behavior** or **disable auto-update**, please refer
 
 <procedure>
 
-1. **Open Command Prompt**: Navigate to the `ComfyUI\custom_nodes\ComfyUI-Allor` folder. You can do this by pressing <shortcut>
-   Win+R</shortcut>, typing `cmd`, and pressing <shortcut>Enter</shortcut>.
+1. **Open Command Prompt**: Navigate to the `ComfyUI\custom_nodes\ComfyUI-Allor` folder. You can do this by
+   pressing <shortcut>Win+R</shortcut>, typing `cmd`, and pressing <shortcut>Enter</shortcut>.
 
 2. **Update the Repository**: Update the repository by entering the following command:
 
