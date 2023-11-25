@@ -1,6 +1,6 @@
 # About Allor
 
-![logo](documentation.png)
+![logo](documentation.png){width="706"}
 
 > Welcome to `ComfyUI Allor Documentation`. Now you are ready for a new big step.
 
