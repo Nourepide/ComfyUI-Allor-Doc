@@ -11,11 +11,11 @@
             <a href="Modules.md" anchor="pytorch" summary="Image processing with pure Tensor without transformations.">PyTorch</a>
         </def>
     <def title="Input Parameters">
-        <deflist type="full">
-            <def title="Images (Type: Image)">
+        <deflist type="narrow">
+            <def title="Images">
                 RGBA images
             </def>
-            <def title="Method (Type: Enum)">
+            <def title="Method">
                 <list>
                     <li><control>Default</control> — Standard channel addition.</li>
                     <li><control>Invert</control> — The channel is changed to opposite values before being returned.</li>
@@ -24,8 +24,8 @@
         </deflist>
     </def>
     <def title="Output Parameters">
-        <deflist type="full">
-            <def title="Mask (Type: Mask)">
+        <deflist type="narrow">
+            <def title="Mask">
                 Alpha Channel
             </def>
         </deflist>
