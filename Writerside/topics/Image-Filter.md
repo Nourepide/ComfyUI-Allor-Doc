@@ -6,19 +6,19 @@
 
 Text
 
-**Backend**: Pillow.
+**Backend**: <a href="Modules.md" anchor="pillow" summary="A widely used Python library for image manipulation.">Pillow</a>.
 
 ### Smooth More
 
 Text
 
-**Backend**: Pillow.
+**Backend**: <a href="Modules.md" anchor="pillow" summary="A widely used Python library for image manipulation.">Pillow</a>.
 
 ### Blur
 
 Text
 
-**Backend**: Pillow.
+**Backend**: <a href="Modules.md" anchor="pillow" summary="A widely used Python library for image manipulation.">Pillow</a>.
 
 ### Box Blur
 
@@ -60,64 +60,64 @@ Text
 
 Text
 
-**Backend**: Pillow.
+**Backend**: <a href="Modules.md" anchor="pillow" summary="A widely used Python library for image manipulation.">Pillow</a>.
 
 ### Detail
 
 Text
 
-**Backend**: Pillow.
+**Backend**: <a href="Modules.md" anchor="pillow" summary="A widely used Python library for image manipulation.">Pillow</a>.
 
 ### Edge Enhance
 
 Text
 
-**Backend**: Pillow.
+**Backend**: <a href="Modules.md" anchor="pillow" summary="A widely used Python library for image manipulation.">Pillow</a>.
 
 ### Edge Enhance More
 
 Text
 
-**Backend**: Pillow.
+**Backend**: <a href="Modules.md" anchor="pillow" summary="A widely used Python library for image manipulation.">Pillow</a>.
 
 ### Emboss
 
 Text
 
-**Backend**: Pillow.
+**Backend**: <a href="Modules.md" anchor="pillow" summary="A widely used Python library for image manipulation.">Pillow</a>.
 
 ### Find Edges
 
 Text
 
-**Backend**: Pillow.
+**Backend**: <a href="Modules.md" anchor="pillow" summary="A widely used Python library for image manipulation.">Pillow</a>.
 
 ### Sharpen
 
 Text
 
-**Backend**: Pillow.
+**Backend**: <a href="Modules.md" anchor="pillow" summary="A widely used Python library for image manipulation.">Pillow</a>.
 
 ### Rank
 
 Text
 
-**Backend**: Pillow.
+**Backend**: <a href="Modules.md" anchor="pillow" summary="A widely used Python library for image manipulation.">Pillow</a>.
 
 ### Min
 
 Text
 
-**Backend**: Pillow.
+**Backend**: <a href="Modules.md" anchor="pillow" summary="A widely used Python library for image manipulation.">Pillow</a>.
 
 ### Max
 
 Text
 
-**Backend**: Pillow.
+**Backend**: <a href="Modules.md" anchor="pillow" summary="A widely used Python library for image manipulation.">Pillow</a>.
 
 ### Mode
 
 Text
 
-**Backend**: Pillow.
+**Backend**: <a href="Modules.md" anchor="pillow" summary="A widely used Python library for image manipulation.">Pillow</a>.

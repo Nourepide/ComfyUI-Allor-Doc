@@ -6,23 +6,23 @@
 
 Text
 
-**Backend**: Pillow.
+**Backend**: <a href="Modules.md" anchor="pillow" summary="A widely used Python library for image manipulation.">Pillow</a>.
 
 ### Outlined
 
 Text
 
-**Backend**: Pillow.
+**Backend**: <a href="Modules.md" anchor="pillow" summary="A widely used Python library for image manipulation.">Pillow</a>.
 
 ### Multiline
 
 Text
 
-**Backend**: Pillow.
+**Backend**: <a href="Modules.md" anchor="pillow" summary="A widely used Python library for image manipulation.">Pillow</a>.
 
 ### Multiline Outlined
 
 Text
 
-**Backend**: Pillow.
+**Backend**: <a href="Modules.md" anchor="pillow" summary="A widely used Python library for image manipulation.">Pillow</a>.
 

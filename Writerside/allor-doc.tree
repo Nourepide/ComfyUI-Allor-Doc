@@ -94,7 +94,8 @@
                 <toc-element topic="Image-Transform-Crop-Absolute.md"/>
                 <toc-element topic="Image-Transform-Crop-Relative.md"/>
                 <toc-element topic="Image-Transform-Crop-Corners.md"/>
-                <toc-element topic="Image-Transform-Padding.md"/>
+                <toc-element topic="Image-Transform-Padding-Absolute.md"/>
+                <toc-element topic="Image-Transform-Padding-Relative.md"/>
                 <toc-element topic="Image-Transform-Rotate.md"/>
                 <toc-element topic="Image-Transform-Transpose.md"/>
             </toc-element>

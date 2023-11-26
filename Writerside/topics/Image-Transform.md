@@ -30,7 +30,7 @@ Text
 
 Text
 
-**Backend**: Pillow.
+**Backend**: <a href="Modules.md" anchor="pillow" summary="A widely used Python library for image manipulation.">Pillow</a>.
 
 ### Padding
 
@@ -42,11 +42,11 @@ Text
 
 Text
 
-**Backend**: Pillow.
+**Backend**: <a href="Modules.md" anchor="pillow" summary="A widely used Python library for image manipulation.">Pillow</a>.
 
 ### Transpose
 
 Text
 
-**Backend**: Pillow.
+**Backend**: <a href="Modules.md" anchor="pillow" summary="A widely used Python library for image manipulation.">Pillow</a>.
 
