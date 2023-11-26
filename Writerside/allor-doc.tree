@@ -10,6 +10,7 @@
         <toc-element topic="Installation.md"/>
         <toc-element topic="Updating.md"/>
         <toc-element topic="Configuration.md"/>
+        <toc-element topic="Node-Naming.md"/>
         <toc-element topic="Modules.md">
             <toc-element topic="Alpha-Chanel.md">
                 <toc-element topic="Alpha-Chanel-Add.md"/>

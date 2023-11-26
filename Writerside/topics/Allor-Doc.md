@@ -40,6 +40,12 @@
 </procedure>
 
 <procedure>
+  <img src="text_fields.svg" alt="configuration" style="block" width="46"/>
+  <a href="Node-Naming.md"/>
+  <p>Unravel the mystery behind the naming of nodes in Allor.</p>
+</procedure>
+
+<procedure>
   <img src="cloud.svg" alt="cloud" style="block" width="46"/>
   <p><format color="Gray">Run in cloud</format></p>
   <p>Unleash the power of simplicity launching with Jupyter Notebook.</p>
