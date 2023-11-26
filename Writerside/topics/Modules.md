@@ -10,11 +10,23 @@ This versatility allows for a diverse range of **functionalities** and **interac
 
 Here is a list of backends:
 
-* **PyTorch** — Image processing with Tensor without transformation.
-* **NumPy** — PyTorch and NumPy arrays share underlying memory locations, allowing for efficient transformations without any performance loss.
-* **OpenCV** — An open-source library dedicated to real-time image processing. It offers even higher operation speeds than pure tensor processing.
-* **Pillow** — A widely used Python library for image manipulation. Slow speed of work, if possible, we will switch from it to OpenCV.
-* **Rembg** — A specialized library for removing image backgrounds. Despite its slower operation speed (up to 30 seconds), it provides effective background removal capabilities.
+<list>
+<li id="pytorch">
+    <control>PyTorch</control> — Image processing with pure Tensor without transformations.
+</li>
+<li id="numpy">
+    <control>NumPy</control> — PyTorch and NumPy arrays share underlying memory locations, allowing for efficient transformations without any performance loss.
+</li>
+<li id="opencv">
+    <control>OpenCV</control> — An open-source library dedicated to real-time image processing. It offers even higher operation speeds than pure tensor processing.
+</li>
+<li id="pillow">
+    <control>Pillow</control> — A widely used Python library for image manipulation. Slow speed of work, if possible, we will switch from it to OpenCV.
+</li>
+<li id="rembg">
+    <control>Rembg</control> — A specialized library for removing image backgrounds. Despite its slower operation speed (up to 30 seconds), it provides effective background removal capabilities.
+</li>
+</list>
 
 ### Alpha Chanel
 
