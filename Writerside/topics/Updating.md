@@ -12,6 +12,15 @@ This section provides comprehensive instructions on how to **update Allor**, whe
 If you wish to **modify this behavior** or **disable auto-update**, please refer to the <a href="Configuration.md">
 configuration</a> page.
 
+### Troubleshooting
+
+If you have problems with auto-update, you can switch it to **hard mode** in configuration.
+
+This will **ensure** that the repository is updated to the latest version at the cost of a **factory reset**.
+This will remove any changes you may have made to the Allor code.
+
+This **does NOT** affect ComfyUI, other plugins, last update timestamp and the Allor configuration file.
+
 ## Manual updating with Git
 
 > You need to have Git installed.

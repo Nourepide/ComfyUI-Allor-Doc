@@ -143,6 +143,7 @@ In this section, you can **configure the auto-update feature** of Allor or even 
 | notify_if_no_new_updates  | Boolean | True    | Notify you when there are no new updates.                                                      |
 | auto_update               | Boolean | True    | Automatically update itself if update available.                                               |
 | branch_name               | String  | main    | Specifies the branch that Allor should pull updates from.                                      |
+| update_mode               | String  | soft    | Determines how indifferent the update will be to inconsistencies. Available - Soft, Hard.      |
 
 ## Fonts
 
