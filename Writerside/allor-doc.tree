@@ -45,12 +45,19 @@
             </toc-element>
             <toc-element topic="Image-Draw.md">
                 <toc-element topic="Image-Draw-Arc.md"/>
+                <toc-element topic="Image-Draw-Arc-By-Container.md"/>
                 <toc-element topic="Image-Draw-Chord.md"/>
+                <toc-element topic="Image-Draw-Chord-By-Container.md"/>
                 <toc-element topic="Image-Draw-Ellipse.md"/>
+                <toc-element topic="Image-Draw-Ellipse-By-Container.md"/>
                 <toc-element topic="Image-Draw-Line.md"/>
+                <toc-element topic="Line-By-Container.md"/>
                 <toc-element topic="Image-Draw-Pieslice.md"/>
+                <toc-element topic="Image-Draw-Pieslice-By-Container.md"/>
                 <toc-element topic="Image-Draw-Rectangle.md"/>
+                <toc-element topic="Image-Draw-Rectangle-By-Container.md"/>
                 <toc-element topic="Image-Draw-Rectangle-Rounded.md"/>
+                <toc-element topic="Image-Draw-Rectangle-Rounded-By-Container.md"/>
                 <toc-element topic="Image-Draw-Polygon.md"/>
             </toc-element>
             <toc-element topic="Image-Effects.md">
