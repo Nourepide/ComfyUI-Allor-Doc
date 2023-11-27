@@ -2,14 +2,14 @@
 
 Maintaining the **latest version** of Allor is crucial for **optimal performance** and access to **new features**.
 
-This section provides comprehensive instructions on how to **update Allor**, whether you prefer the convenience of *
-*automatic updates** or the control of **manual updates via Git**.
+This section provides comprehensive instructions on how to **update Allor**, whether you prefer the convenience of
+**automatic updates** or the control of **manual updates via Git**.
 
 ## Auto-Update
 
 **Allor** has the capability to **self-update**. By default, this happens **once a day**.
 
-If you wish to **modify this behavior** or **disable auto-update**, please refer to the <a href="Configuration.md">
+If you wish to **modify this behavior** or **disable auto-update**, please refer to the <a href="Configuration.md" anchor="updates">
 configuration</a> page.
 
 ### Troubleshooting
