@@ -24,37 +24,37 @@ Text
 
 Text
 
-**Backend**: OpenCV.
+**Backend**: <a href="Modules.md" anchor="opencv" summary="An open-source library dedicated to real-time image processing.">OpenCV</a>.
 
 ### Gaussian Blur
 
 Text
 
-**Backend**: OpenCV.
+**Backend**: <a href="Modules.md" anchor="opencv" summary="An open-source library dedicated to real-time image processing.">OpenCV</a>.
 
 ### Gaussian Blur Advanced
 
 Text
 
-**Backend**: OpenCV.
+**Backend**: <a href="Modules.md" anchor="opencv" summary="An open-source library dedicated to real-time image processing.">OpenCV</a>.
 
 ### Stack Blur
 
 Text
 
-**Backend**: OpenCV.
+**Backend**: <a href="Modules.md" anchor="opencv" summary="An open-source library dedicated to real-time image processing.">OpenCV</a>.
 
 ### Median Blur
 
 Text
 
-**Backend**: OpenCV.
+**Backend**: <a href="Modules.md" anchor="opencv" summary="An open-source library dedicated to real-time image processing.">OpenCV</a>.
 
 ### Bilateral Blur
 
 Text
 
-**Backend**: OpenCV.
+**Backend**: <a href="Modules.md" anchor="opencv" summary="An open-source library dedicated to real-time image processing.">OpenCV</a>.
 
 ### Contour
 

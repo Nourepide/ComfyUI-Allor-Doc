@@ -6,16 +6,16 @@
 
 Text
 
-**Backend**: Rembg.
+**Backend**: <a href="Modules.md" anchor="rembg" summary="A specialized library for removing image backgrounds.">Rembg</a>.
 
 ### Custom
 
 Text
 
-**Backend**: Rembg.
+**Backend**: <a href="Modules.md" anchor="rembg" summary="A specialized library for removing image backgrounds.">Rembg</a>.
 
 ### Custom Advanced
 
 Text
 
-**Backend**: Rembg.
+**Backend**: <a href="Modules.md" anchor="rembg" summary="A specialized library for removing image backgrounds.">Rembg</a>.

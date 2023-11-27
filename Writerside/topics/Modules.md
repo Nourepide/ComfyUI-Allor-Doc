@@ -53,7 +53,7 @@ This module enables the **placement of images** of varying sizes atop **each oth
 A module for **removing backgrounds** from images.
 For optimal results, it is recommended to add a prompt that generates a plain background.
 
-**Backend**: Rembg.
+**Backend**: <a href="Modules.md" anchor="rembg" summary="A specialized library for removing image backgrounds.">Rembg</a>.
 
 ### Image Text
 
@@ -73,7 +73,7 @@ This module may undergo rework in the future.
 
 A module for working with **visual effects** and **optical distortions**.
 
-**Backend**: OpenCV, <a href="Modules.md" anchor="pytorch" summary="Image processing with pure Tensor without transformations.">PyTorch</a>.
+**Backend**: <a href="Modules.md" anchor="opencv" summary="An open-source library dedicated to real-time image processing.">OpenCV</a>, <a href="Modules.md" anchor="pytorch" summary="Image processing with pure Tensor without transformations.">PyTorch</a>.
 
 ### Image Filter
 
