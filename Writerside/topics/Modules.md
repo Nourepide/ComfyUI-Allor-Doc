@@ -33,20 +33,20 @@ Here is a list of backends:
 A module for working with the **transparency** channel in images,
 enabling the creation, addition, restoration, or removal of the alpha channel.
 
-**Backend**: PyTorch.
+**Backend**: <a href="Modules.md" anchor="pytorch" summary="Image processing with pure Tensor without transformations.">PyTorch</a>.
 
 ### Image Container
 
 This module allows the creation of an **empty container** based on images
 for use as a **size value** and for **mathematical operations**.
 
-**Backend**: PyTorch.
+**Backend**: <a href="Modules.md" anchor="pytorch" summary="Image processing with pure Tensor without transformations.">PyTorch</a>.
 
 ### Image Composite
 
 This module enables the **placement of images** of varying sizes atop **each other**, preserving transparency.
 
-**Backend**: PyTorch.
+**Backend**: <a href="Modules.md" anchor="pytorch" summary="Image processing with pure Tensor without transformations.">PyTorch</a>.
 
 ### Image Segmentation
 
@@ -60,27 +60,27 @@ For optimal results, it is recommended to add a prompt that generates a plain ba
 This module enables the **creation of a text as an image**.
 Plans include moving it to the Image Draw module.
 
-**Backend**: Pillow.
+**Backend**: <a href="Modules.md" anchor="pillow" summary="A widely used Python library for image manipulation.">Pillow</a>.
 
 ### Image Draw
 
 A module for **drawing figures** as images.
 This module may undergo rework in the future.
 
-**Backend**: Pillow.
+**Backend**: <a href="Modules.md" anchor="pillow" summary="A widely used Python library for image manipulation.">Pillow</a>.
 
 ### Image Effects
 
 A module for working with **visual effects** and **optical distortions**.
 
-**Backend**: OpenCV, PyTorch.
+**Backend**: OpenCV, <a href="Modules.md" anchor="pytorch" summary="Image processing with pure Tensor without transformations.">PyTorch</a>.
 
 ### Image Filter
 
 A module for altering images by **applying mathematical operations**.
 Unlike effects, it does not focus on artwork changes.
 
-**Backend**: Pillow.
+**Backend**: <a href="Modules.md" anchor="pillow" summary="A widely used Python library for image manipulation.">Pillow</a>.
 
 ### Image Noise
 
@@ -93,14 +93,14 @@ A module for working with noise on images. Currently, in the early stage of deve
 A module for **changing the representation** of images.
 It enables resizing, reflecting, expanding, rotating, and cropping images.
 
-**Backend**: PyTorch, Pillow.
+**Backend**: <a href="Modules.md" anchor="pytorch" summary="Image processing with pure Tensor without transformations.">PyTorch</a>, <a href="Modules.md" anchor="pillow" summary="A widely used Python library for image manipulation.">Pillow</a>.
 
 ### Image Batch
 
 A module for comfortable work with **batch image processing**.
 It allows adding images to a batch, splitting, removing, or getting the desired image from the array.
 
-**Backend**: PyTorch.
+**Backend**: <a href="Modules.md" anchor="pytorch" summary="Image processing with pure Tensor without transformations.">PyTorch</a>.
 
 ### Clamp
 
@@ -109,4 +109,4 @@ The module provides a **strongly typed solution** to improve the **readability o
 The nodes within this module uniquely have their module name positioned at the end of their name,
 rather than at the beginning.
 
-**Backend**: PyTorch.
+**Backend**: <a href="Modules.md" anchor="pytorch" summary="Image processing with pure Tensor without transformations.">PyTorch</a>.
