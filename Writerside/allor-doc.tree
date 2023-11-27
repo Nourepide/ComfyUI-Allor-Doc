@@ -98,6 +98,7 @@
             <toc-element topic="Image-Transform.md">
                 <toc-element topic="Image-Transform-Resize-Absolute.md"/>
                 <toc-element topic="Image-Transform-Resize-Relative.md"/>
+                <toc-element topic="Image-Transform-Resize-Clip.md"/>
                 <toc-element topic="Image-Transform-Crop-Absolute.md"/>
                 <toc-element topic="Image-Transform-Crop-Relative.md"/>
                 <toc-element topic="Image-Transform-Crop-Corners.md"/>
