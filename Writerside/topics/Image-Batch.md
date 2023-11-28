@@ -25,3 +25,9 @@ Text
 Text
 
 **Backend**: <a href="Modules.md" anchor="pytorch" summary="Image processing with pure Tensor without transformations.">PyTorch</a>.
+
+### Permute
+
+Text
+
+**Backend**: <a href="Modules.md" anchor="pytorch" summary="Image processing with pure Tensor without transformations.">PyTorch</a>.

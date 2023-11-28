@@ -112,6 +112,7 @@
                 <toc-element topic="Image-Batch-Remove.md"/>
                 <toc-element topic="Image-Batch-Fork.md"/>
                 <toc-element topic="Image-Batch-Join.md"/>
+                <toc-element topic="Image-Batch-Permute.md"/>
             </toc-element>
             <toc-element topic="Clamp.md">
                 <toc-element topic="Clamp-Clip.md"/>
