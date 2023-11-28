@@ -109,6 +109,7 @@
             </toc-element>
             <toc-element topic="Image-Batch.md">
                 <toc-element topic="Image-Batch-Get.md"/>
+                <toc-element topic="Image-Batch-Copy.md"/>
                 <toc-element topic="Image-Batch-Remove.md"/>
                 <toc-element topic="Image-Batch-Fork.md"/>
                 <toc-element topic="Image-Batch-Join.md"/>

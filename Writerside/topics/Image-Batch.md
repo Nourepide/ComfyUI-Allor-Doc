@@ -8,6 +8,12 @@ Text
 
 **Backend**: <a href="Modules.md" anchor="pytorch" summary="Image processing with pure Tensor without transformations.">PyTorch</a>.
 
+### Copy
+
+Text
+
+**Backend**: <a href="Modules.md" anchor="pytorch" summary="Image processing with pure Tensor without transformations.">PyTorch</a>.
+
 ### Remove
 
 Text
