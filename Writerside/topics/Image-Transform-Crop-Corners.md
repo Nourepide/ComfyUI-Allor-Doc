@@ -16,7 +16,7 @@
                 RGB/A images
             </def>
             <def title="Radius">
-                The degree of rounding for the corners of the images.
+                The degree of rounding for the corners of the images
             </def>
             <def title="Top Left Corner">
                 Rounds the top left corner

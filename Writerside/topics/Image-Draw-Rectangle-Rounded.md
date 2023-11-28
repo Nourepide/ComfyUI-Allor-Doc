@@ -31,7 +31,7 @@
                 End horizontal point to define the bounding box in percentage of image container
             </def>
             <def title="Radius">
-                ...
+                The degree of rounding for the corners of the images
             </def>
             <def title="Outline Size">
                 Outline size
@@ -61,16 +61,16 @@
                 Alpha channel of color
             </def>
             <def title="Top Left Corner">
-                ...
+                Rounds the top left corner
             </def>
             <def title="Top Right Corner">
-                ...
+                Rounds the top right corner
             </def>
             <def title="Bottom Left Corner">
-                ...
+                Rounds the bottom left corner
             </def>
             <def title="Bottom Right Corner">
-                ...
+                Rounds the bottom right corner
             </def>
             <def title="SSAA">
                 <control>S</control>uper-<control>S</control>ampling <control>A</control>nti-<control>A</control>liasing
