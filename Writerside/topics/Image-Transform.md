@@ -14,6 +14,12 @@ Text
 
 **Backend**: <a href="Modules.md" anchor="pytorch" summary="Image processing with pure Tensor without transformations.">PyTorch</a>.
 
+### Resize Clip
+
+Text
+
+**Backend**: <a href="Modules.md" anchor="pytorch" summary="Image processing with pure Tensor without transformations.">PyTorch</a>.
+
 ### Crop Absolute
 
 Text
