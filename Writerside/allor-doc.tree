@@ -6,131 +6,130 @@
                  name="Allor Documentation"
                  start-page="Allor-Doc.md">
 
-    <toc-element topic="Allor-Doc.md">
-        <toc-element topic="Installation.md"/>
-        <toc-element topic="Updating.md"/>
-        <toc-element topic="Configuration.md"/>
-        <toc-element topic="Node-Naming.md"/>
-        <toc-element topic="Modules.md">
-            <toc-element topic="Alpha-Chanel.md">
-                <toc-element topic="Alpha-Chanel-Add.md"/>
-                <toc-element topic="Alpha-Chanel-Add-By-Mask.md"/>
-                <toc-element topic="Alpha-Chanel-As-Mask.md"/>
-                <toc-element topic="Alpha-Chanel-Restore.md"/>
-                <toc-element topic="Alpha-Chanel-Remove.md"/>
-            </toc-element>
-            <toc-element topic="Image-Container.md">
-                <toc-element topic="Image-Container-Default.md"/>
-                <toc-element topic="Image-Container-Inheritance-Add.md"/>
-                <toc-element topic="Image-Container-Inheritance-Scale.md"/>
-                <toc-element topic="Image-Container-Inheritance-Max.md"/>
-                <toc-element topic="Image-Container-Inheritance-Sum.md"/>
-            </toc-element>
-            <toc-element topic="Image-Composite.md">
-                <toc-element topic="Image-Composite-Absolute.md"/>
-                <toc-element topic="Image-Composite-Absolute-By-Container.md"/>
-                <toc-element topic="Image-Composite-Relative.md"/>
-                <toc-element topic="Image-Composite-Relative-By-Container.md"/>
-            </toc-element>
-            <toc-element topic="Image-Segmentation.md">
-                <toc-element topic="Image-Segmentation-Default.md"/>
-                <toc-element topic="Image-Segmentation-Custom.md"/>
-                <toc-element topic="Image-Segmentation-Custom-Advanced.md"/>
-            </toc-element>
-            <toc-element topic="Image-Text.md">
-                <toc-element topic="Image-Text-Default.md"/>
-                <toc-element topic="Image-Text-Outlined.md"/>
-                <toc-element topic="Image-Text-Multiline.md"/>
-                <toc-element topic="Image-Text-Multiline-Outlined.md"/>
-            </toc-element>
-            <toc-element topic="Image-Draw.md">
-                <toc-element topic="Image-Draw-Arc.md"/>
-                <toc-element topic="Image-Draw-Arc-By-Container.md"/>
-                <toc-element topic="Image-Draw-Chord.md"/>
-                <toc-element topic="Image-Draw-Chord-By-Container.md"/>
-                <toc-element topic="Image-Draw-Ellipse.md"/>
-                <toc-element topic="Image-Draw-Ellipse-By-Container.md"/>
-                <toc-element topic="Image-Draw-Line.md"/>
-                <toc-element topic="Image-Draw-Line-By-Container.md"/>
-                <toc-element topic="Image-Draw-Pieslice.md"/>
-                <toc-element topic="Image-Draw-Pieslice-By-Container.md"/>
-                <toc-element topic="Image-Draw-Rectangle.md"/>
-                <toc-element topic="Image-Draw-Rectangle-By-Container.md"/>
-                <toc-element topic="Image-Draw-Rectangle-Rounded.md"/>
-                <toc-element topic="Image-Draw-Rectangle-Rounded-By-Container.md"/>
-                <toc-element topic="Image-Draw-Polygon.md"/>
-            </toc-element>
-            <toc-element topic="Image-Effects.md">
-                <toc-element topic="Image-Effects-Adjustment.md"/>
-                <toc-element topic="Image-Effects-Grayscale.md"/>
-                <toc-element topic="Image-Effects-Sepia.md"/>
-                <toc-element topic="Image-Effects-Negative.md"/>
-                <toc-element topic="Image-Effects-Lens.md">
-                    <toc-element topic="Image-Effects-Lens-Zoom-Burst.md"/>
-                    <toc-element topic="Image-Effects-Lens-Chromatic-Aberration.md"/>
-                    <toc-element topic="Image-Effects-Lens-Bokeh.md"/>
-                    <toc-element topic="Image-Effects-Lens-Optic-Axis.md"/>
-                    <toc-element topic="Image-Effects-Lens-Vignette.md"/>
-                </toc-element>
-            </toc-element>
-            <toc-element topic="Image-Filter.md">
-                <toc-element topic="Image-Filter-Smooth.md"/>
-                <toc-element topic="Image-Filter-Smooth-More.md"/>
-                <toc-element topic="Image-Filter-Blur.md"/>
-                <toc-element topic="Image-Filter-Box-Blur.md"/>
-                <toc-element topic="Image-Filter-Gaussian-Blur.md"/>
-                <toc-element topic="Image-Filter-Gaussian-Blur-Advanced.md"/>
-                <toc-element topic="Image-Filter-Stack-Blur.md"/>
-                <toc-element topic="Image-Filter-Median-Blur.md"/>
-                <toc-element topic="Image-Filter-Bilateral-Blur.md"/>
-                <toc-element topic="Image-Filter-Contour.md"/>
-                <toc-element topic="Image-Filter-Detail.md"/>
-                <toc-element topic="Image-Filter-Edge-Enhance.md"/>
-                <toc-element topic="Image-Filter-Edge-Enhance-More.md"/>
-                <toc-element topic="Image-Filter-Emboss.md"/>
-                <toc-element topic="Image-Filter-Find-Edges.md"/>
-                <toc-element topic="Image-Filter-Sharpen.md"/>
-                <toc-element topic="Image-Filter-Rank.md"/>
-                <toc-element topic="Image-Filter-Min.md"/>
-                <toc-element topic="Image-Filter-Max.md"/>
-                <toc-element topic="Image-Filter-Mode.md"/>
-            </toc-element>
-            <toc-element topic="Image-Transform.md">
-                <toc-element topic="Image-Transform-Resize-Absolute.md"/>
-                <toc-element topic="Image-Transform-Resize-Relative.md"/>
-                <toc-element topic="Image-Transform-Resize-Clip.md"/>
-                <toc-element topic="Image-Transform-Crop-Absolute.md"/>
-                <toc-element topic="Image-Transform-Crop-Relative.md"/>
-                <toc-element topic="Image-Transform-Crop-Corners.md"/>
-                <toc-element topic="Image-Transform-Padding-Absolute.md"/>
-                <toc-element topic="Image-Transform-Padding-Relative.md"/>
-                <toc-element topic="Image-Transform-Rotate.md"/>
-                <toc-element topic="Image-Transform-Transpose.md"/>
-            </toc-element>
-            <toc-element topic="Image-Batch.md">
-                <toc-element topic="Image-Batch-Get.md"/>
-                <toc-element topic="Image-Batch-Copy.md"/>
-                <toc-element topic="Image-Batch-Remove.md"/>
-                <toc-element topic="Image-Batch-Fork.md"/>
-                <toc-element topic="Image-Batch-Join.md"/>
-                <toc-element topic="Image-Batch-Permute.md"/>
-            </toc-element>
-            <toc-element topic="Clamp.md">
-                <toc-element topic="Clamp-Clip.md"/>
-                <toc-element topic="Clamp-Clip-Vision.md"/>
-                <toc-element topic="Clamp-Clip-Vision-Output.md"/>
-                <toc-element topic="Clamp-Conditioning.md"/>
-                <toc-element topic="Clamp-ControlNet.md"/>
-                <toc-element topic="Clamp-Gligen.md"/>
-                <toc-element topic="Clamp-Image.md"/>
-                <toc-element topic="Clamp-Latent.md"/>
-                <toc-element topic="Clamp-Mask.md"/>
-                <toc-element topic="Clamp-Model.md"/>
-                <toc-element topic="Clamp-Style-Model.md"/>
-                <toc-element topic="Clamp-Upscale-Model.md"/>
-                <toc-element topic="Clamp-Vae.md"/>
+    <toc-element topic="Allor-Doc.md"/>
+    <toc-element topic="Installation.md"/>
+    <toc-element topic="Updating.md"/>
+    <toc-element topic="Configuration.md"/>
+    <toc-element topic="Node-Naming.md"/>
+    <toc-element topic="Modules.md">
+        <toc-element topic="Alpha-Chanel.md">
+            <toc-element topic="Alpha-Chanel-Add.md"/>
+            <toc-element topic="Alpha-Chanel-Add-By-Mask.md"/>
+            <toc-element topic="Alpha-Chanel-As-Mask.md"/>
+            <toc-element topic="Alpha-Chanel-Restore.md"/>
+            <toc-element topic="Alpha-Chanel-Remove.md"/>
+        </toc-element>
+        <toc-element topic="Image-Container.md">
+            <toc-element topic="Image-Container-Default.md"/>
+            <toc-element topic="Image-Container-Inheritance-Add.md"/>
+            <toc-element topic="Image-Container-Inheritance-Scale.md"/>
+            <toc-element topic="Image-Container-Inheritance-Max.md"/>
+            <toc-element topic="Image-Container-Inheritance-Sum.md"/>
+        </toc-element>
+        <toc-element topic="Image-Composite.md">
+            <toc-element topic="Image-Composite-Absolute.md"/>
+            <toc-element topic="Image-Composite-Absolute-By-Container.md"/>
+            <toc-element topic="Image-Composite-Relative.md"/>
+            <toc-element topic="Image-Composite-Relative-By-Container.md"/>
+        </toc-element>
+        <toc-element topic="Image-Segmentation.md">
+            <toc-element topic="Image-Segmentation-Default.md"/>
+            <toc-element topic="Image-Segmentation-Custom.md"/>
+            <toc-element topic="Image-Segmentation-Custom-Advanced.md"/>
+        </toc-element>
+        <toc-element topic="Image-Text.md">
+            <toc-element topic="Image-Text-Default.md"/>
+            <toc-element topic="Image-Text-Outlined.md"/>
+            <toc-element topic="Image-Text-Multiline.md"/>
+            <toc-element topic="Image-Text-Multiline-Outlined.md"/>
+        </toc-element>
+        <toc-element topic="Image-Draw.md">
+            <toc-element topic="Image-Draw-Arc.md"/>
+            <toc-element topic="Image-Draw-Arc-By-Container.md"/>
+            <toc-element topic="Image-Draw-Chord.md"/>
+            <toc-element topic="Image-Draw-Chord-By-Container.md"/>
+            <toc-element topic="Image-Draw-Ellipse.md"/>
+            <toc-element topic="Image-Draw-Ellipse-By-Container.md"/>
+            <toc-element topic="Image-Draw-Line.md"/>
+            <toc-element topic="Image-Draw-Line-By-Container.md"/>
+            <toc-element topic="Image-Draw-Pieslice.md"/>
+            <toc-element topic="Image-Draw-Pieslice-By-Container.md"/>
+            <toc-element topic="Image-Draw-Rectangle.md"/>
+            <toc-element topic="Image-Draw-Rectangle-By-Container.md"/>
+            <toc-element topic="Image-Draw-Rectangle-Rounded.md"/>
+            <toc-element topic="Image-Draw-Rectangle-Rounded-By-Container.md"/>
+            <toc-element topic="Image-Draw-Polygon.md"/>
+        </toc-element>
+        <toc-element topic="Image-Effects.md">
+            <toc-element topic="Image-Effects-Adjustment.md"/>
+            <toc-element topic="Image-Effects-Grayscale.md"/>
+            <toc-element topic="Image-Effects-Sepia.md"/>
+            <toc-element topic="Image-Effects-Negative.md"/>
+            <toc-element topic="Image-Effects-Lens.md">
+                <toc-element topic="Image-Effects-Lens-Zoom-Burst.md"/>
+                <toc-element topic="Image-Effects-Lens-Chromatic-Aberration.md"/>
+                <toc-element topic="Image-Effects-Lens-Bokeh.md"/>
+                <toc-element topic="Image-Effects-Lens-Optic-Axis.md"/>
+                <toc-element topic="Image-Effects-Lens-Vignette.md"/>
             </toc-element>
         </toc-element>
-        <toc-element topic="FAQ.md"/>
+        <toc-element topic="Image-Filter.md">
+            <toc-element topic="Image-Filter-Smooth.md"/>
+            <toc-element topic="Image-Filter-Smooth-More.md"/>
+            <toc-element topic="Image-Filter-Blur.md"/>
+            <toc-element topic="Image-Filter-Box-Blur.md"/>
+            <toc-element topic="Image-Filter-Gaussian-Blur.md"/>
+            <toc-element topic="Image-Filter-Gaussian-Blur-Advanced.md"/>
+            <toc-element topic="Image-Filter-Stack-Blur.md"/>
+            <toc-element topic="Image-Filter-Median-Blur.md"/>
+            <toc-element topic="Image-Filter-Bilateral-Blur.md"/>
+            <toc-element topic="Image-Filter-Contour.md"/>
+            <toc-element topic="Image-Filter-Detail.md"/>
+            <toc-element topic="Image-Filter-Edge-Enhance.md"/>
+            <toc-element topic="Image-Filter-Edge-Enhance-More.md"/>
+            <toc-element topic="Image-Filter-Emboss.md"/>
+            <toc-element topic="Image-Filter-Find-Edges.md"/>
+            <toc-element topic="Image-Filter-Sharpen.md"/>
+            <toc-element topic="Image-Filter-Rank.md"/>
+            <toc-element topic="Image-Filter-Min.md"/>
+            <toc-element topic="Image-Filter-Max.md"/>
+            <toc-element topic="Image-Filter-Mode.md"/>
+        </toc-element>
+        <toc-element topic="Image-Transform.md">
+            <toc-element topic="Image-Transform-Resize-Absolute.md"/>
+            <toc-element topic="Image-Transform-Resize-Relative.md"/>
+            <toc-element topic="Image-Transform-Resize-Clip.md"/>
+            <toc-element topic="Image-Transform-Crop-Absolute.md"/>
+            <toc-element topic="Image-Transform-Crop-Relative.md"/>
+            <toc-element topic="Image-Transform-Crop-Corners.md"/>
+            <toc-element topic="Image-Transform-Padding-Absolute.md"/>
+            <toc-element topic="Image-Transform-Padding-Relative.md"/>
+            <toc-element topic="Image-Transform-Rotate.md"/>
+            <toc-element topic="Image-Transform-Transpose.md"/>
+        </toc-element>
+        <toc-element topic="Image-Batch.md">
+            <toc-element topic="Image-Batch-Get.md"/>
+            <toc-element topic="Image-Batch-Copy.md"/>
+            <toc-element topic="Image-Batch-Remove.md"/>
+            <toc-element topic="Image-Batch-Fork.md"/>
+            <toc-element topic="Image-Batch-Join.md"/>
+            <toc-element topic="Image-Batch-Permute.md"/>
+        </toc-element>
+        <toc-element topic="Clamp.md">
+            <toc-element topic="Clamp-Clip.md"/>
+            <toc-element topic="Clamp-Clip-Vision.md"/>
+            <toc-element topic="Clamp-Clip-Vision-Output.md"/>
+            <toc-element topic="Clamp-Conditioning.md"/>
+            <toc-element topic="Clamp-ControlNet.md"/>
+            <toc-element topic="Clamp-Gligen.md"/>
+            <toc-element topic="Clamp-Image.md"/>
+            <toc-element topic="Clamp-Latent.md"/>
+            <toc-element topic="Clamp-Mask.md"/>
+            <toc-element topic="Clamp-Model.md"/>
+            <toc-element topic="Clamp-Style-Model.md"/>
+            <toc-element topic="Clamp-Upscale-Model.md"/>
+            <toc-element topic="Clamp-Vae.md"/>
+        </toc-element>
     </toc-element>
+        <toc-element topic="FAQ.md"/>
 </instance-profile>
