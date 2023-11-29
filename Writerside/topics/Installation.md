@@ -72,6 +72,7 @@ If you have [ComfyUI-Manager](https://github.com/ltdrdata/ComfyUI-Manager) insta
 <procedure>
 
 1. **Open Terminal**: Navigate to the `ComfyUI/custom_nodes` directory.
+
    You can do this by opening the Terminal and using the `cd` command.
 
 2. **Clone the Repository**: Clone the repository by entering the following command:
@@ -101,8 +102,15 @@ If you have [ComfyUI-Manager](https://github.com/ltdrdata/ComfyUI-Manager) insta
 
 <procedure>
 
-1. **Open Command Prompt**: Navigate to the `ComfyUI\custom_nodes` folder. You can do this by pressing <shortcut>
-   Win+R</shortcut>, typing `cmd`, and pressing <shortcut>Enter</shortcut>.
+1. **Open Command Prompt**: Navigate to the `ComfyUI\custom_nodes` folder. 
+
+   You can do this by pressing <shortcut>Win+R</shortcut> and typing `cmd`. 
+ 
+   To change the drive, type the letter of the desired drive followed by a colon.
+   For example, `D:` will switch you to the D drive.
+
+   To move to another folder, use the cd command followed by the folder path. 
+   For example, `cd ComfyUI` will take you to the ComfyUI folder.
 
 2. **Clone the Repository**: Clone the repository by entering the following command:
 
