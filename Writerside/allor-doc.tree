@@ -4,9 +4,9 @@
 
 <instance-profile id="allor-doc"
                  name="Allor Documentation"
-                 start-page="Allor-Doc.md">
+                 start-page="Introducing.md">
 
-    <toc-element topic="Allor-Doc.md"/>
+    <toc-element topic="Introducing.md"/>
     <toc-element topic="Installation.md"/>
     <toc-element topic="Updating.md"/>
     <toc-element topic="Configuration.md"/>
