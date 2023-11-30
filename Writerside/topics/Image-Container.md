@@ -2,32 +2,8 @@
 
 ![image_container](image_container.png) { border-effect="rounded" width="706" }
 
-### Default
+The Image Container module allows you to create new empty images based on the sizes entered manually or inherited from other images.
 
-Text
-
-**Backend**: <a href="Modules.md" anchor="pytorch" summary="Image processing with pure Tensor without transformations.">PyTorch</a>.
-
-### Inheritance Add
-
-Text
-
-**Backend**: <a href="Modules.md" anchor="pytorch" summary="Image processing with pure Tensor without transformations.">PyTorch</a>.
-
-### Inheritance Scale
-
-Text
-
-**Backend**: <a href="Modules.md" anchor="pytorch" summary="Image processing with pure Tensor without transformations.">PyTorch</a>.
-
-### Inheritance Max
-
-Text
-
-**Backend**: <a href="Modules.md" anchor="pytorch" summary="Image processing with pure Tensor without transformations.">PyTorch</a>.
-
-### Inheritance Sum
-
-Text
+Nodes also allow you to perform mathematical operations with size, such as addition and multiplication.
 
 **Backend**: <a href="Modules.md" anchor="pytorch" summary="Image processing with pure Tensor without transformations.">PyTorch</a>.

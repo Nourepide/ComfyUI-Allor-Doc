@@ -1,31 +1,7 @@
 # Lens
 
-### Zoom Burst
+The Lens sub-module is designed to help emulate camera effects that may appear under different circumstances.
 
-Text
-
-**Backend**: PyTorch.
-
-### Chromatic Aberration
-
-Text
-
-**Backend**: PyTorch.
-
-### Bokeh
-
-Text
-
-**Backend**: PyTorch.
-
-### Optic Axis
-
-Text
-
-**Backend**: PyTorch.
-
-### Vignette
-
-Text
+For example, specialized lenses or effects that appear when focus is lost or light is too bright.
 
 **Backend**: PyTorch.

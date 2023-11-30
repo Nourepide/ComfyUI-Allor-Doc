@@ -2,32 +2,8 @@
 
 ![alpha_chanel](alpha_chanel.png){ border-effect="rounded" width="706" }
 
-### Add
+The Alpha Channel module includes nodes for working with the transparent fourth layer of images.
 
-Text
-
-**Backend**: <a href="Modules.md" anchor="pytorch" summary="Image processing with pure Tensor without transformations.">PyTorch</a>
-
-### Add By Mask
-
-Text
-
-**Backend**: <a href="Modules.md" anchor="pytorch" summary="Image processing with pure Tensor without transformations.">PyTorch</a>
-
-### As Mask
-
-Text
-
-**Backend**: <a href="Modules.md" anchor="pytorch" summary="Image processing with pure Tensor without transformations.">PyTorch</a>
-
-### Restore
-
-Text
-
-**Backend**: <a href="Modules.md" anchor="pytorch" summary="Image processing with pure Tensor without transformations.">PyTorch</a>
-
-### Remove
-
-Text
+Images that include this fourth layer are also known as RGBA images as opposed to RGB images without it.
 
 **Backend**: <a href="Modules.md" anchor="pytorch" summary="Image processing with pure Tensor without transformations.">PyTorch</a>
