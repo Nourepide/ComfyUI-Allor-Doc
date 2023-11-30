@@ -58,6 +58,12 @@
 </procedure>
 
 <procedure>
+  <img src="compare.svg" alt="cloud" style="block" width="46"/>
+  <p><format color="Gray">Examples</format></p>
+  <p>Find your inspiration among the masterpieces.</p>
+</procedure>
+
+<procedure>
   <img src="question.svg" alt="faq" style="block" width="46"/>
   <a href="FAQ.md">Frequently Asked Questions</a>
   <p>Find answers to your burning questions in our FAQ section.</p>
