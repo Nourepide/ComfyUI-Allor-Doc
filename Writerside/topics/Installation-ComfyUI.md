@@ -95,9 +95,9 @@ This will prevent a system **pollution**, eliminate **dependency conflicts**, an
 
 <procedure>
 
-1. **Open Terminal**: Navigate to the `ComfyUI` root directory.
+See how to [Work with Terminal](Work-with-Terminal.md).
 
-   You can do this by opening the Terminal and using the `cd` command.
+1. **Open Terminal**: Navigate to the `ComfyUI` root directory.
 
 2. **Create Virtual Environment**: You can do it by typing the following command.
     ```Bash
@@ -116,15 +116,9 @@ This will prevent a system **pollution**, eliminate **dependency conflicts**, an
 
 <procedure>
 
+See how to [Work with Terminal](Work-with-Terminal.md).
+
 1. **Open Command Prompt**: Navigate to the `ComfyUI` root folder.
-
-   You can do this by pressing <shortcut>Win+R</shortcut> and typing `cmd`.
-
-   To change the drive, type the letter of the desired drive followed by a colon.
-   For example, `D:` will switch you to the D drive.
-
-   To move to another folder, use the cd command followed by the folder path.
-   For example, `cd ComfyUI` will take you to the ComfyUI folder.
 
 2. **Create Virtual Environment**: You can do it by typing the following command.
     ```Bash
@@ -162,11 +156,9 @@ One of the most important steps in installing **ComfyUI** is installing **depend
 
 <procedure>
 
+See how to [Work with Terminal](Work-with-Terminal.md).
+
 1. **Open Terminal**: Navigate to the `ComfyUI` root directory.
-
-   You can do this by opening the Terminal and using the `cd` command.
-
-   You can **skip** this step if you have setup a **virtual environment**.
 
 2. **Install PyTorch Dependencies**:
     * **For AMD**:
@@ -197,17 +189,9 @@ One of the most important steps in installing **ComfyUI** is installing **depend
 
 <procedure>
 
+See how to [Work with Terminal](Work-with-Terminal.md).
+
 1. **Open Command Prompt**: Navigate to the `ComfyUI` root folder.
-
-   You can do this by pressing <shortcut>Win+R</shortcut> and typing `cmd`.
-
-   To change the drive, type the letter of the desired drive followed by a colon.
-   For example, `D:` will switch you to the D drive.
-
-   To move to another folder, use the cd command followed by the folder path.
-   For example, `cd ComfyUI` will take you to the ComfyUI folder.
-
-   You can **skip** this step if you have setup a **virtual environment**.
 
 2. **Install PyTorch Dependencies**:
     * **For AMD**:
@@ -238,6 +222,8 @@ The hardest part is behind, now you can launch **ComfyUI** and start generating 
 <tab title="Run on Unix" group-key="unix">
 
 <procedure>
+
+See how to [Work with Terminal](Work-with-Terminal.md).
 
 1. **Type into Terminal**: Now you can finally run **ComfyUI** by following command.
     * **Run on Linux**:
@@ -277,6 +263,8 @@ The hardest part is behind, now you can launch **ComfyUI** and start generating 
 <tab title="Run on Windows" group-key="windows">
 
 <procedure>
+
+See how to [Work with Terminal](Work-with-Terminal.md).
 
 1. **Open Command Prompt**: Now you can finally run **ComfyUI** by following command.
     * **Run on AMD**:
