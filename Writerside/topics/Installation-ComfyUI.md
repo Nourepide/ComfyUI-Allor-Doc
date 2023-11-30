@@ -1,25 +1,11 @@
-# Installation
-
-**Allor** can be installed not with such a complexity as it seems at first glance.
-Rest assured that every possible measure has been taken to streamline this process.
-
-The installation script implemented within Allor ensures a smooth installation experience for all users, regardless of
-their technical proficiency.
-
-## Requirements
-
-* ComfyUI
-* Python 3.10 or above
-
-## Installing ComfyUI
-
+# Installation ComfyUI
 Before installing **Allor**, you need to have **Python** and **ComfyUI** installed.
 
 ### How to get ComfyUI
 
 <procedure>
 
-For **Windows** systems, you can [download portable version](https://github.com/comfyanonymous/ComfyUI/releases/download/latest/ComfyUI_windows_portable_nvidia_cu121_or_cpu.7z) and go straight to the [Allor installation](#installing-allor) step.
+For **Windows** systems, you can [download portable version](https://github.com/comfyanonymous/ComfyUI/releases/download/latest/ComfyUI_windows_portable_nvidia_cu121_or_cpu.7z) and go straight to the [Allor installation](Installation-Allor.md) step.
 
 Also, you can get **ComfyUI** from a [direct download](https://github.com/comfyanonymous/ComfyUI/archive/refs/heads/master.zip) link.
 
@@ -117,7 +103,7 @@ This will prevent a system **pollution**, eliminate **dependency conflicts**, an
     ```Bash
    python -m venv
     ```
-   
+
 3. **Activate new Environment**: You can do this by writing this command to your terminal.
     ```Bash
    source venv/bin/activate
@@ -155,10 +141,10 @@ This will prevent a system **pollution**, eliminate **dependency conflicts**, an
 </tab>
 </tabs>
 
-After activating the **virtual environment**, all commands applicable to **Python** will be intercepted. 
+After activating the **virtual environment**, all commands applicable to **Python** will be intercepted.
 This means that they will use the **Python version** from the **virtual environment**, not the system version.
 
-It's also worth noting that the **Python version** in the **virtual environment** may differ from the system one, as well as the installed packages. 
+It's also worth noting that the **Python version** in the **virtual environment** may differ from the system one, as well as the installed packages.
 
 If you need to return to the system **Python** version and **exit** the **virtual environment**, enter this command:
 ```Bash
@@ -183,20 +169,20 @@ One of the most important steps in installing **ComfyUI** is installing **depend
    You can **skip** this step if you have setup a **virtual environment**.
 
 2. **Install PyTorch Dependencies**:
-   * **For AMD**:
-       ```Bash
-       pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/rocm5.6
-       ```
+    * **For AMD**:
+        ```Bash
+        pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/rocm5.6
+        ```
 
-   * **For NVIDIA**:
-       ```Bash
-       pip install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu121
-       ```
+    * **For NVIDIA**:
+        ```Bash
+        pip install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu121
+        ```
 
-   * **For Apple Mac silicon**:
-     ```Bash
-     pip install --pre torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/nightly/cpu
-     ```
+    * **For Apple Mac silicon**:
+      ```Bash
+      pip install --pre torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/nightly/cpu
+      ```
 
 3. **Install ComfyUI Dependencies**: You can install it by typing the following command.
    ```Bash
@@ -224,15 +210,15 @@ One of the most important steps in installing **ComfyUI** is installing **depend
    You can **skip** this step if you have setup a **virtual environment**.
 
 2. **Install PyTorch Dependencies**:
-   * **For AMD**:
-       ```Bash
-       pip install torch-directml
-       ```
+    * **For AMD**:
+        ```Bash
+        pip install torch-directml
+        ```
 
-   * **For NVIDIA**:
-       ```Bash
-       pip install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu121
-       ```
+    * **For NVIDIA**:
+        ```Bash
+        pip install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu121
+        ```
 
 3. **Install ComfyUI Dependencies**: You can install it by typing the following command.
    ```Bash
@@ -254,18 +240,18 @@ The hardest part is behind, now you can launch **ComfyUI** and start generating 
 <procedure>
 
 1. **Type into Terminal**: Now you can finally run **ComfyUI** by following command.
-   * **Run on Linux**:
-       ```Bash
-       python main.py
-       ```
+    * **Run on Linux**:
+        ```Bash
+        python main.py
+        ```
 
-   * **Run on macOS**:
-     ```Bash
-     python main.py --force-fp16
-     ```
+    * **Run on macOS**:
+      ```Bash
+      python main.py --force-fp16
+      ```
 
 2. For your **convenience**, you can create a bash **script**, such as a `run.sh` file, to avoid manually activating the
-**virtual environment** and running **ComfyUI** from the terminal each time you want to use it.
+   **virtual environment** and running **ComfyUI** from the terminal each time you want to use it.
 
     ```Bash
     #!/bin/bash
@@ -293,18 +279,18 @@ The hardest part is behind, now you can launch **ComfyUI** and start generating 
 <procedure>
 
 1. **Open Command Prompt**: Now you can finally run **ComfyUI** by following command.
-   * **Run on AMD**:
-       ```Bash
-       python main.py --directml
-       ```
+    * **Run on AMD**:
+        ```Bash
+        python main.py --directml
+        ```
 
-   * **Run on NVIDIA**:
-       ```Bash
-       python main.py
-       ```
+    * **Run on NVIDIA**:
+        ```Bash
+        python main.py
+        ```
 
-2. For your convenience, you can create a **script**, such as a `run.bat` file, to avoid manually activating the 
-**virtual environment** and running **ComfyUI** from the terminal each time you want to use it.
+2. For your convenience, you can create a **script**, such as a `run.bat` file, to avoid manually activating the
+   **virtual environment** and running **ComfyUI** from the terminal each time you want to use it.
 
 <tabs>
 <tab title="Script for NVIDIA">
@@ -332,143 +318,3 @@ python main.py --directml
 </tabs>
 
 After launching **ComfyUI**, it will be accessible at the local address [127.0.0.1:8188](http://127.0.0.1:8188/) in your **browser**.
-
-## Installing Allor
-
-Once **ComfyUI** is installed, you won't have any trouble augmenting it with the **Allor** plugin.
-
-### By Manager
-
-If you have [ComfyUI-Manager](https://github.com/ltdrdata/ComfyUI-Manager) installed, you can install Allor by manager.
-
-### By Download
-
-<tabs group="installing">
-<tab title="Installation for Unix" group-key="unix">
-
-<procedure>
-
-1. **Download Allor**: Download
-   the [Allor ZIP archive](https://github.com/Nourepide/ComfyUI-Allor/archive/refs/heads/main.zip).
-2. **Unzip the Archive**: Unzip the downloaded archive to the `ComfyUI/custom_nodes` directory.
-3. **Run the Installation Script**: Execute the `install.sh` file. You can do this from the terminal with the following
-   command:
-
-    ```bash
-    bash install.sh
-    ```
-4. **Run ComfyUI**: Finally, run ComfyUI.
-
-</procedure>
-
-</tab>
-<tab title="Installation for Windows" group-key="windows">
-
-<procedure>
-
-1. **Download Allor**: Download
-   the [Allor ZIP archive](https://github.com/Nourepide/ComfyUI-Allor/archive/refs/heads/main.zip).
-
-2. **Unzip the Archive**: Unzip the downloaded archive to the `ComfyUI\custom_nodes` directory.
-
-3. **Run the Installation Script**: Execute the `install.bat` file. You can do this from the command prompt with the
-   following command or just click on it:
-
-    ```bash
-    install.bat
-    ```
-
-4. **Run ComfyUI**: Finally, run ComfyUI.
-
-</procedure>
-
-</tab>
-</tabs>
-
-### With Git
-
-<tabs group="installing">
-<tab title="Installation for Unix" group-key="unix">
-
-<procedure>
-
-1. **Open Terminal**: Navigate to the `ComfyUI/custom_nodes` directory.
-
-   You can do this by opening the Terminal and using the `cd` command.
-
-2. **Clone the Repository**: Clone the repository by entering the following command:
-
-    ```bash
-    git clone https://github.com/Nourepide/ComfyUI-Allor.git
-    ```
-
-3. **Navigate to the Allor Folder**: Enter the Allor folder using the following command:
-
-    ```bash
-    cd ComfyUI-Allor
-    ```
-
-4. **Run the Installation Script**: Execute the `install.bat` script by entering the following command:
-
-    ```bash
-    bash install.sh
-    ```
-
-5. **Run ComfyUI**: Finally, run ComfyUI.
-
-</procedure>
-
-</tab>
-<tab title="Installation for Windows" group-key="windows">
-
-<procedure>
-
-1. **Open Command Prompt**: Navigate to the `ComfyUI\custom_nodes` folder. 
-
-   You can do this by pressing <shortcut>Win+R</shortcut> and typing `cmd`. 
- 
-   To change the drive, type the letter of the desired drive followed by a colon.
-   For example, `D:` will switch you to the D drive.
-
-   To move to another folder, use the cd command followed by the folder path. 
-   For example, `cd ComfyUI` will take you to the ComfyUI folder.
-
-2. **Clone the Repository**: Clone the repository by entering the following command:
-
-    ```bash
-    git clone https://github.com/Nourepide/ComfyUI-Allor.git
-    ```
-
-3. **Navigate to the Allor Folder**: Enter the Allor folder using the following command:
-
-    ```bash
-    cd ComfyUI-Allor
-    ```
-
-4. **Run the Installation Script**: Execute the `install.bat` script by entering the following command:
-
-    ```bash
-    install.bat
-    ```
-
-5. **Run ComfyUI**: Finally, run ComfyUI.
-
-</procedure>
-
-</tab>
-</tabs>
-
-## What does the installation script do?
-
-1. **Searches for the virtual environment**: The script checks for a Python virtual environment.
-
-2. **Installs dependencies**: If a `requirements.txt` file exists in the current directory, the script installs the
-   dependencies listed in it.
-
-3. **Initializes a Git repository**: If Git is installed and the current directory is not yet a Git repository, the
-   script initializes a new Git repository and syncs it with a remote repository.
-
-4. **Uses GitPython**: If Git is not installed, the script uses GitPython, a Python library, to perform Git operations.
-
-5. **Finishes its work**: Finally, the script deactivates the Python virtual environment.
-

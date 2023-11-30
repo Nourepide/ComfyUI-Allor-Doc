@@ -23,7 +23,7 @@
 
 <procedure>
   <img src="download.svg" alt="installation" style="block" width="46"/>
-  <a href="Installation.md"/>
+  <a href="Installation-Allor.md"/>
   <p>Dive into the installation process of Allor on ComfyUI.</p>
 </procedure>
 

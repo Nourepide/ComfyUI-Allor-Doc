@@ -7,7 +7,10 @@
                  start-page="Introducing.md">
 
     <toc-element topic="Introducing.md"/>
-    <toc-element topic="Installation.md"/>
+    <toc-element toc-title="Installation">
+        <toc-element topic="Installation-ComfyUI.md"/>
+        <toc-element topic="Installation-Allor.md"/>
+    </toc-element>
     <toc-element topic="Updating.md"/>
     <toc-element topic="Configuration.md"/>
     <toc-element topic="Node-Naming.md"/>
