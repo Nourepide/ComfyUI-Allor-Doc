@@ -2,6 +2,7 @@
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <variables>
         <primary-color>iris</primary-color>
+        <versions-switcher>https://gist.github.com/Nourepide/43f9b01ae1db4840a9b71fbf234fe55a#file-help-versions-json</versions-switcher>
     </variables>
     <build-profile instance="allor-doc"/>
     <footer>
